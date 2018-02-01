@@ -35,8 +35,8 @@ public class matrix {
         }
 
         System.out.println("\nYour transpose matrix is:");
-        for (int i = 0; i < s1; i++){
-            for (int j = 0; j < s2; j++){
+        for (int i = 0; i < s2; i++){
+            for (int j = 0; j < s1; j++){
                 System.out.print(arr[j][i] + "  ");
             }
             System.out.println("");
