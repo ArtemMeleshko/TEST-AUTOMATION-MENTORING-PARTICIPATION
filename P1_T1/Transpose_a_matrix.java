@@ -1,8 +1,6 @@
 
 import java.util.Scanner;
-/**
- * Created by Artsiom_Mialeshka on 2/1/2018.
- */
+
 public class matrix {
 
     public static void main(String[] args){
