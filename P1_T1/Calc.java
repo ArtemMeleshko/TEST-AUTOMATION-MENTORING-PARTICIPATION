@@ -2,9 +2,7 @@ package com.example.calculator;
 
 import java.util.Scanner;
 
-/**
- * Created by Artsiom_Mialeshka on 1/3/2018.
- */
+
 public class countUp {
 
     public static void main(String[] args) {
