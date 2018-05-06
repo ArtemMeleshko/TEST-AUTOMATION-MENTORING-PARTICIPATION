@@ -1,4 +1,4 @@
-package by.epam.task2.main;
+
 
 import by.epam.task2.appliences.Appliances;
 import by.epam.task2.appliences.Electricical;
