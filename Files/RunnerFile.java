@@ -3,9 +3,8 @@
 import by.epam.task2.appliences.Appliances;
 import by.epam.task2.appliences.Electricical;
 import by.epam.task2.appliences.EnumAppliances;
-import by.epam.task2.homeAppliances.AirConditioner;
 import by.epam.task2.homeAppliances.Blender;
-import by.epam.task2.homeAppliances.VacuumCleaner;
+
 
 
 import java.io.*;
